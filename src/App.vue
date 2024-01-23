@@ -6,8 +6,14 @@ export default {
 
 <template>
   <header>
-    <h1 style="margin: 0; line-height: 100px;">HelloWorld</h1>
+    <h1>HelloWorld</h1>
   </header>
+  <main>
+    <h2>this is the Main</h2>
+  </main>
+  <footer>
+    <h3>this is the footer</h3>
+  </footer>
   
 </template>
 
